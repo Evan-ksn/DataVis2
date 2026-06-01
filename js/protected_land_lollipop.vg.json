@@ -13,7 +13,7 @@
   },
 
   "data": {
-    "url": "../Data/state_data.csv"
+    "url": "../data/state_data.csv"
   },
 
   "transform": [

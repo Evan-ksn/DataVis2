@@ -19,7 +19,7 @@
   "layer": [
     {
       "data": {
-        "url": "../Data/australia.json",
+        "url": "../data/australia.json",
         "format": {
           "type": "topojson",
           "feature": "australia"
@@ -31,7 +31,7 @@
           "lookup": "properties.name",
           "from": {
             "data": {
-              "url": "../Data/state_data.csv"
+              "url": "../data/state_data.csv"
             },
             "key": "State",
             "fields": ["Population"]
