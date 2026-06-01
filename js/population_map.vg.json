@@ -19,7 +19,7 @@
   "layer": [
     {
       "data": {
-        "url": "Data/australia.json",
+        "url": "../Data/australia.json",
         "format": {
           "type": "topojson",
           "feature": "australia"
